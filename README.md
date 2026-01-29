@@ -93,73 +93,235 @@ Estudio de Casos	Análisis de situaciones reales	Presentador y moderador	Analist
 
 
 ### 3. Técnicas Didácticas
-- Definición de técnicas didácticas
-- Lista detallada con 6 técnicas:
-  - Lluvia de ideas
-  - Estudio de casos
-  - Preguntas guiadas
-  - Mapas conceptuales
-  - Simulación y juego de roles
-  - Demostraciones prácticas
-- Aplicación específica de cada técnica en ingeniería sismoresistente
-- Tabla que relaciona estrategias con técnicas
+-Definición
+Las técnicas didácticas son herramientas o procedimientos específicos y concretos que el docente utiliza dentro de una estrategia didáctica para lograr objetivos particulares de aprendizaje. Son las acciones puntuales, los recursos y actividades específicas que se aplican en momentos determinados de la clase.
+
+Mientras que la estrategia es el plan general o la ruta a seguir, las técnicas son los pasos específicos, las herramientas concretas que se ejecutan para recorrer esa ruta. Una estrategia puede incluir múltiples técnicas, y una misma técnica puede utilizarse en diferentes estrategias según el contexto y los objetivos.
+
+Lista de técnicas didácticas con aplicación en Ingeniería Sismoresistente:
+🌧️ Lluvia de ideas (Brainstorming)
+Descripción: Los estudiantes generan ideas de forma espontánea sobre un tema sin censura ni crítica inicial. Se registran todas las ideas para luego analizarlas y organizarlas.
+
+Estrategia donde se usa: ABP, Aprendizaje Cooperativo
+
+Ejemplo en Ingeniería Sismoresistente: "¿Qué factores creen que causan que un edificio colapse durante un terremoto?" Los estudiantes aportan ideas libremente: calidad del concreto, columnas débiles, suelo blando, altura excesiva, mala conexión entre elementos, etc.
+
+📚 Estudio de casos
+Descripción: Se presenta una situación real o ficticia documentada para que los estudiantes la analicen, identifiquen problemas, comprendan causas y propongan soluciones basadas en evidencia.
+
+Estrategia donde se usa: ABP, Estrategia de Análisis de Casos
+
+Ejemplo en Ingeniería Sismoresistente: Analizar el caso del colapso del edificio Alto Río en Concepción, Chile durante el terremoto de 2010. Los estudiantes estudian planos, informes técnicos, videos del colapso, y determinan que la causa fue el efecto de columna corta por tabiquería mal ubicada.
+
+❓ Preguntas guiadas (Método socrático)
+Descripción: El docente formula preguntas estratégicas secuenciales que orientan el pensamiento de los estudiantes hacia el descubrimiento de conceptos, sin darles las respuestas directamente.
+
+Estrategia donde se usa: Cualquier estrategia, especialmente útil en ABP y clases magistrales activas
+
+Ejemplo en Ingeniería Sismoresistente:
+
+"¿Qué sucede cuando sacudes un edificio?" → Vibra
+"¿Todos los edificios vibran igual?" → No
+"¿De qué depende cómo vibra?" → De su altura, rigidez, masa
+"Si un edificio alto vibra lentamente y uno bajo vibra rápido, ¿cuál sufrirá más daño si el sismo también es lento?" → El alto, por resonancia
+🗺️ Mapas conceptuales
+Descripción: Representación gráfica de conceptos y sus relaciones mediante nodos (conceptos) conectados por líneas etiquetadas (relaciones). Útil para organizar información y visualizar estructura del conocimiento.
+
+Estrategia donde se usa: Aprendizaje significativo, síntesis de información, evaluación formativa
+
+Ejemplo en Ingeniería Sismoresistente: Crear un mapa conceptual que conecte: "Sismo" → genera → "Ondas sísmicas" → transmiten → "Energía" → produce → "Aceleraciones del suelo" → inducen → "Fuerzas inerciales" → causan → "Esfuerzos en elementos" → pueden causar → "Daño estructural".
+
+🎭 Simulación y juego de roles
+Descripción: Los estudiantes asumen diferentes roles o simulan situaciones para vivenciar perspectivas diversas y comprender dinámicas complejas desde múltiples ángulos.
+
+Estrategia donde se usa: Aprendizaje experiencial, comprensión de procesos multidisciplinarios
+
+Ejemplo en Ingeniería Sismoresistente: Simulación de una reunión post-sismo donde diferentes estudiantes asumen roles: ingeniero estructural (evalúa daño), arquitecto (propone reparación), dueño del edificio (preocupado por costos), autoridad municipal (prioriza seguridad), aseguradora (analiza responsabilidades). Deben llegar a acuerdos sobre si reparar o demoler.
+
+📊 Demostraciones prácticas
+Descripción: El docente muestra físicamente un fenómeno, proceso o técnica mientras los estudiantes observan, toman notas y luego intentan replicarlo o comprenderlo mejor.
+
+Estrategia donde se usa: Aprendizaje por observación, desarrollo de habilidades prácticas
+
+Ejemplo en Ingeniería Sismoresistente: El profesor construye dos modelos simples de edificios con palitos de helado: uno sin arriostramientos y otro con arriostramientos diagonales. Los coloca sobre una plataforma vibratoria (mesa de agitación improvisada). Al activarla, los estudiantes observan que el modelo sin arriostramientos colapsa mientras el arriostrado permanece estable, comprendiendo visualmente la importancia del arriostramiento lateral.
+
+🔗 Relación entre estrategias y técnicas didácticas
+Estrategia Didáctica	Técnicas que puede incluir	Momento de aplicación
+Aprendizaje Basado en Problemas (ABP)	Lluvia de ideas, estudio de casos, preguntas guiadas, mapas conceptuales	A lo largo de todo el proceso de resolución del problema
+Aprendizaje Cooperativo	Técnica Jigsaw, debates estructurados, presentaciones grupales, mapas conceptuales colaborativos	Durante las fases de trabajo grupal y presentación
+Clase Invertida	Videos explicativos (casa), resolución de problemas (aula), preguntas guiadas, discusión dirigida	Videos antes de clase, técnicas activas durante la clase presencial
+Estudio de Casos	Análisis documental, lluvia de ideas, debate estructurado, juego de roles	Análisis inicial, discusión grupal, presentación de conclusiones
+
 
 ### 4. Mi Material Didáctico
-- **Infografía visual**: Diferencias entre didáctica, estrategias y técnicas
-- **Ficha de secuencia didáctica**: Análisis sísmico de estructuras
-  - Objetivo de aprendizaje detallado
-  - Estrategia utilizada: ABP + Aprendizaje Cooperativo
-  - Descripción de técnicas en cada sesión (4 sesiones de 90 min)
-  - Sistema de evaluación
-- **Texto reflexivo**: Importancia de la didáctica en ingeniería (2 párrafos)
+ continuación presento los recursos didácticos originales que he elaborado para demostrar la aplicación práctica de la didáctica, estrategias y técnicas en la enseñanza de Ingeniería Sismoresistente.
+
+📊 Recurso Visual: Infografía Comparativa
+Esta infografía visual explica las diferencias entre didáctica, estrategia didáctica y técnica didáctica:
+
+Diferencias entre Didáctica, Estrategias y Técnicas
+Aplicado a la enseñanza de Ingeniería Sismoresistente
+📚 DIDÁCTICA
+¿Qué es?
+
+La ciencia y arte de enseñar
+
+Nivel:
+
+Marco teórico-práctico general
+
+Función:
+
+Estudia y fundamenta cómo ocurre el aprendizaje y cómo facilitarlo
+
+Pregunta clave:
+
+¿Cómo enseñar de manera efectiva?
+
+Analogía:
+
+Es como la arquitectura que establece los principios para construir
+
+Ejemplo:
+
+Principio didáctico: "Partir de lo concreto hacia lo abstracto" - enseñar sismos mostrando videos reales antes de las ecuaciones
+
+🎯 ESTRATEGIAS DIDÁCTICAS
+¿Qué son?
+
+Planes organizados para alcanzar objetivos
+
+Nivel:
+
+Planificación y diseño del proceso
+
+Función:
+
+Guiar el proceso educativo completo hacia metas específicas
+
+Pregunta clave:
+
+¿Qué camino seguir para lograr el aprendizaje?
+
+Analogía:
+
+Es como el plano estructural que organiza todo el edificio
+
+Ejemplo:
+
+Estrategia ABP: "Resolver el problema de diseñar un edificio en zona sísmica" - incluye investigación, análisis, propuesta y presentación
+
+🛠️ TÉCNICAS DIDÁCTICAS
+¿Qué son?
+
+Herramientas específicas de aplicación
+
+Nivel:
+
+Ejecución práctica y concreta
+
+Función:
+
+Implementar las estrategias en acciones puntuales
+
+Pregunta clave:
+
+¿Con qué herramientas logro cada paso?
+
+Analogía:
+
+Son las herramientas concretas para construir (martillo, nivel, etc.)
+
+Ejemplo:
+
+Lluvia de ideas sobre causas de colapso, estudio del caso Chile 2010, demostración con modelo a escala
+
+⬇️
+Relación jerárquica e integración:
+DIDÁCTICA (principios generales) →
+ESTRATEGIAS (plan de acción) →
+TÉCNICAS (herramientas específicas)
+
+Los tres elementos trabajan en conjunto para lograr un aprendizaje significativo y efectivo
+
+📝 Ficha de Secuencia Didáctica
+Ejemplo concreto de planificación aplicando estrategias y técnicas:
+
+Secuencia Didáctica: "Análisis Sísmico de Estructuras"
+Asignatura:	Ingeniería Sismoresistente
+Nivel educativo:	Sexto semestre - Ingeniería Civil
+Duración:	4 sesiones de 90 minutos cada una (6 horas totales)
+Número de estudiantes:	32 estudiantes (8 grupos de 4)
+OBJETIVO DE APRENDIZAJE
+Objetivo general:
+
+Los estudiantes serán capaces de analizar y evaluar el comportamiento sísmico de una estructura mediante la aplicación del método de análisis modal espectral, identificando sus modos de vibración, calculando el cortante basal, y proponiendo mejoras al diseño estructural para garantizar la seguridad sísmica.
+
+Objetivos específicos:
+
+Comprender el concepto de periodo fundamental y modos de vibración de una estructura
+Aplicar correctamente el método de análisis modal espectral utilizando software especializado
+Interpretar resultados de derivas de entrepiso y compararlos con límites normativos
+Proponer soluciones estructurales para mejorar el desempeño sísmico
+Comunicar hallazgos técnicos de manera clara y fundamentada
+ESTRATEGIA DIDÁCTICA UTILIZADA
+Aprendizaje Basado en Problemas (ABP) + Aprendizaje Cooperativo
+Justificación de la estrategia:
+
+Se selecciona el ABP porque simula situaciones reales que los estudiantes enfrentarán como ingenieros profesionales, desarrollando habilidades de análisis, toma de decisiones y resolución de problemas complejos. Se combina con aprendizaje cooperativo para fomentar el trabajo en equipo, típico de la práctica profesional de la ingeniería.
+
+Problema planteado:
+
+"Un cliente les ha contratado para evaluar la seguridad sísmica de un edificio existente de oficinas de 6 pisos ubicado en zona de alta sismicidad. Se les proporcionan los planos estructurales originales. Deben analizar la estructura, determinar si cumple con la normativa actual, y proponer modificaciones si son necesarias."
+
+Sesión	Técnica Didáctica	Descripción de la actividad	Duración
+Sesión 1:
+Comprensión del problema	Presentación del caso	El docente presenta el problema: edificio existente con planos estructurales, ubicación, tipo de suelo. Explica el contexto: normativa actual más estricta que cuando se construyó.	20 min
+Lluvia de ideas	En grupos, los estudiantes listan qué información necesitan conocer para resolver el problema: cargas sísmicas, propiedades del suelo, características de materiales, normativa aplicable, software requerido.	25 min
+Preguntas guiadas	El docente orienta mediante preguntas: "¿Qué parámetros sísmicos necesitan?" "¿Qué método de análisis es apropiado?" "¿Qué verificaciones debe cumplir la estructura?" Los estudiantes van descubriendo el camino.	45 min
+Sesión 2:
+Investigación y modelado	Investigación guiada	Cada grupo investiga: consulta la normativa sismoresistente local (factores Z, U, S, C, R), busca las características del suelo de la zona, revisa documentación de software de análisis estructural (ETABS o SAP2000).	30 min
+Demostración práctica	El docente realiza una demostración en vivo de cómo modelar una estructura simple en el software: definir materiales, secciones, elementos estructurales, cargas, y ejecutar análisis modal. Los estudiantes replican con su edificio.	60 min
+Sesión 3:
+Análisis e interpretación	Trabajo cooperativo	Los grupos ejecutan el análisis modal espectral de su edificio. Cada miembro tiene roles: uno verifica datos de entrada, otro analiza modos de vibración, otro revisa derivas, otro calcula cortante basal. Rotan roles para que todos practiquen.	50 min
+Estudio de casos comparativo	El docente presenta casos reales de edificios que fallaron durante sismos por no cumplir con derivas máximas o por tener irregularidades. Los grupos comparan con sus resultados y reflexionan sobre las consecuencias.	40 min
+Sesión 4:
+Propuesta y presentación	Resolución de problemas	Si la estructura no cumple normativa, los grupos proponen soluciones: agregar muros de corte, reforzar columnas, instalar disipadores. Modelan las mejoras y verifican que funcionen.	40 min
+Presentación oral	Cada grupo presenta en 8 minutos: problema encontrado, análisis realizado, resultados obtenidos, comparación con normativa, propuesta de solución. Usan mapas conceptuales y tablas para sintetizar.	40 min
+Debate estructurado	Otros grupos hacen preguntas técnicas: "¿Por qué eligieron muros en vez de pórticos?" "¿Consideraron el costo?" El grupo expositor defiende sus decisiones con argumentos técnicos.	10 min
+EVALUACIÓN DEL APRENDIZAJE
+Tipo:	Evaluación mixta: formativa + sumativa
+Instrumentos:	
+Rúbrica para evaluar presentación grupal (40%)
+Revisión del modelo estructural y memoria de cálculo (30%)
+Evaluación individual de comprensión conceptual (20%)
+Autoevaluación y coevaluación del trabajo en equipo (10%)
+Criterios principales:	Correcta aplicación del método, interpretación acertada de resultados, viabilidad de propuestas, fundamentación técnica, claridad en comunicación, trabajo colaborativo efectivo
+💡 Justificación de las técnicas seleccionadas
+Lluvia de ideas: Permite activar conocimientos previos y que los estudiantes identifiquen por sí mismos qué necesitan aprender, promoviendo el aprendizaje autodirigido.
+
+Preguntas guiadas: Desarrolla pensamiento crítico y evita dar respuestas directas, facilitando que los estudiantes construyan su propio conocimiento.
+
+Demostración práctica: Necesaria para software especializado; permite modelar el uso correcto antes de la práctica independiente.
+
+Trabajo cooperativo con roles: Asegura participación equitativa y desarrollo de habilidades interpersonales esenciales en ingeniería.
+
+Estudio de casos: Conecta teoría con consecuencias reales, aumentando la motivación y comprensión de la importancia del tema.
+
+Presentación y debate: Desarrolla habilidades de comunicación técnica y capacidad de defender decisiones con argumentos sólidos.
+
+💭 Reflexión: La importancia de la didáctica en la práctica docente
+La didáctica es el corazón de la práctica docente efectiva, especialmente en disciplinas técnicas como la ingeniería. No basta con ser un experto en cálculo estructural o análisis sísmico; un buen docente debe saber cómo transformar ese conocimiento complejo en aprendizajes significativos y duraderos. La didáctica nos proporciona los fundamentos teóricos y prácticos para diseñar experiencias de aprendizaje que consideren cómo aprenden realmente los estudiantes, respetando sus ritmos, estilos y conocimientos previos. Un ingeniero puede conocer perfectamente las ecuaciones de dinámica estructural, pero si no comprende los principios didácticos de construcción del conocimiento, fracasará en transmitir esa comprensión a sus estudiantes. La didáctica nos enseña que aprender ingeniería no es memorizar fórmulas, sino desarrollar capacidades de análisis, resolución de problemas y toma de decisiones fundamentadas. Por ello, todo docente de ingeniería debe ser, simultáneamente, un ingeniero competente y un educador consciente de los procesos cognitivos que facilitan el aprendizaje.
+
+Las estrategias y técnicas didácticas son las herramientas que materializan estos principios en el aula. Una estrategia bien elegida puede convertir un tema árido en una experiencia fascinante: el Aprendizaje Basado en Problemas transforma el análisis sísmico de una lista de ecuaciones en un desafío profesional real donde los estudiantes deben pensar, investigar y decidir como ingenieros. Las técnicas, por su parte, son los momentos específicos donde ocurre la magia del aprendizaje: una demostración con un modelo físico puede hacer visible lo invisible (cómo vibra una estructura), una lluvia de ideas activa el pensamiento divergente, un estudio de caso conecta teoría con consecuencias reales. El impacto es profundo y medible: estudiantes que aprenden con ABP no solo obtienen mejores calificaciones, sino que desarrollan competencias profesionales más sólidas; aquellos que participan en aprendizaje cooperativo no solo comprenden mejor los contenidos, sino que aprenden a trabajar en equipo como lo harán en su vida profesional. La didáctica, las estrategias y las técnicas no son adornos pedagógicos opcionales: son la diferencia entre formar ingenieros que solo calculan y formar profesionales que piensan, innovan y resuelven los problemas complejos que enfrentará nuestra sociedad.
 
 
-
-## 📚 Para estudiantes
-
-Este material está diseñado para:
-- Demostrar la comprensión de conceptos didácticos fundamentales
-- Aplicar didáctica, estrategias y técnicas en un contexto técnico real
-- Cumplir con requisitos académicos de trabajos sobre didáctica
-- Servir como ejemplo de integración teoría-práctica
-- Presentar material didáctico digital original
-
-## ✅ Requisitos académicos cumplidos
-
-✓ **Tres secciones principales**: Didáctica, Estrategias Didácticas, Técnicas Didácticas  
-✓ **Definiciones con ejemplos propios** de Ingeniería Sismoresistente  
-✓ **Infografía comparativa** explicando diferencias entre los tres conceptos  
-✓ **Secuencia didáctica completa** con objetivo, estrategia y técnicas específicas  
-✓ **Reflexión personal** (2 párrafos) sobre importancia de la didáctica  
-✓ **Estructura completa**: Inicio con presentación, propósito, secciones temáticas y material didáctico
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas mejorar el contenido:
-
-1. Haz fork del repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/mejora`)
-3. Commit tus cambios (`git commit -m 'Agrega nueva sección'`)
-4. Push a la rama (`git push origin feature/mejora`)
-5. Abre un Pull Request
-
-
-## ✍️ Autor
-
-Material educativo desarrollado para la carrera de Ingeniería Civil.
 
 ## 🙏 Agradecimientos
 
 - Basado en normativas internacionales de diseño sismoresistente
 - Casos de estudio documentados en literatura especializada
-- Códigos de diseño: ASCE 7, E.030 (Perú), NCh433 (Chile), NSR-10 (Colombia)
+- Códigos de diseño: ASCE 7, NBDS 2023 (Bolivia), NCh433 (Chile)
 
-## 📞 Contacto
-
-Para preguntas, sugerencias o reportar errores, abre un issue en este repositorio.
-
----
-
-**⚠️ Nota académica**: Este material ha sido desarrollado como trabajo académico sobre didáctica aplicada a Ingeniería Civil. Cumple con los requisitos de estructura (inicio, 3 secciones temáticas, material didáctico), contenido (definiciones, ejemplos propios, infografía, secuencia didáctica, reflexión) y formato (web navegable con recursos visuales).
 
 **🎓 "La didáctica transforma el conocimiento técnico en aprendizaje significativo"**
