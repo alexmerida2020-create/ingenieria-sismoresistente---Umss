@@ -8,8 +8,6 @@ Este proyecto es un sitio web educativo desarrollado como trabajo académico par
 
 ## 🎯 Contenido
 
-### Inicio
-- Presentación del autor (estudiante de Ingeniería Civil)
 - Propósito del sitio web
 - Contexto de aplicación: Ingeniería Sismoresistente
 
@@ -46,42 +44,7 @@ Este proyecto es un sitio web educativo desarrollado como trabajo académico par
   - Sistema de evaluación
 - **Texto reflexivo**: Importancia de la didáctica en ingeniería (2 párrafos)
 
-## 🚀 Características
 
-- ✅ Cumple con requisitos académicos de estructura didáctica
-- ✅ Tres secciones principales: Didáctica, Estrategias, Técnicas
-- ✅ Ejemplos propios aplicados a Ingeniería Sismoresistente
-- ✅ Infografía comparativa original
-- ✅ Secuencia didáctica completa con técnicas específicas
-- ✅ Reflexión sobre la importancia de la didáctica (2 párrafos)
-- ✅ Diseño responsive (móvil, tablet, desktop)
-- ✅ Navegación intuitiva
-- ✅ Un solo archivo HTML (fácil de desplegar)
-
-## 📦 Uso
-
-### Opción 1: Visualización local
-1. Descarga el archivo `index.html`
-2. Ábrelo con cualquier navegador web moderno (Chrome, Firefox, Edge, Safari)
-
-### Opción 2: Despliegue en GitHub Pages
-1. Haz fork de este repositorio
-2. El archivo ya se llama `index.html` (listo para GitHub Pages)
-3. Ve a Settings → Pages
-4. Selecciona la rama `main` como fuente
-5. Tu sitio estará disponible en: `https://tu-usuario.github.io/nombre-repositorio/`
-
-### Opción 3: Despliegue en otros servicios
-- **Netlify**: Arrastra y suelta el archivo HTML
-- **Vercel**: Importa el repositorio
-- **GitHub Pages**: Renombra el archivo a `index.html`
-
-## 🛠️ Tecnologías utilizadas
-
-- HTML5
-- CSS3 (Flexbox, Grid, Gradientes, Animaciones)
-- JavaScript (ES6+)
-- Diseño responsive sin frameworks externos
 
 ## 📚 Para estudiantes
 
