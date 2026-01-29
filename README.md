@@ -317,11 +317,9 @@ Las estrategias y técnicas didácticas son las herramientas que materializan es
 
 
 
-## 🙏 Agradecimientos
-
 - Basado en normativas internacionales de diseño sismoresistente
 - Casos de estudio documentados en literatura especializada
-- Códigos de diseño: ASCE 7, NBDS 2023 (Bolivia), NCh433 (Chile)
+- Códigos de diseño: ASCE 7, NBDS 2023 (Bolivia)
 
 
 **🎓 "La didáctica transforma el conocimiento técnico en aprendizaje significativo"**
